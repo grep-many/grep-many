@@ -16,18 +16,18 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=grep-many&theme=dark&hide_border=false)<br/>
 
 
-## 🏆 GitHub Trophies
+### 🔝 Top Contributed Repo
 
-![](https://github-profile-trophy.vercel.app/?username=grep-many&theme=radical&no-frame=true&no-bg=true&margin-w=4)
+![](https://github-contributor-stats.vercel.app/api?username=grep-many&limit=5&theme=neon&combine_all_yearly_contributions=true)
+
 
 ### ✍️ Random Dev Quote
 
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=merko)
 
-### 🔝 Top Contributed Repo
+## 🏆 GitHub Trophies
 
-![](https://github-contributor-stats.vercel.app/api?username=grep-many&limit=5&theme=neon&combine_all_yearly_contributions=true)
-
+![](https://github-profile-trophy.vercel.app/?username=grep-many&theme=radical&no-frame=true&no-bg=true&margin-w=4)
 ---
 
 [![](https://visitcount.itsvg.in/api?id=grep-many&icon=5&color=12)](https://visitcount.itsvg.in)
